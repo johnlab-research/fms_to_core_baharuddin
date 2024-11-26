@@ -13,9 +13,7 @@ This work has been submitted for consideration tp "JGR: Machine Learning and Com
 
 ## Credits
 
-This work is part of [Valerie Locher](https://github.com/gems-val22)'s MSc and PhD studies, conducted under the supervision of Rebecca Bell, [Cédric John](https://github.com/cedricmjohn), and Parastoo Salah and contributed to by [Robert Platt](https://github.com/rob-platt). Valerie Locher's studies at Imperial College London are funded by the Department of Earth Science and Engineering’s scholarship in computational science and engineering for women. All code from Cédric John's research group can be found in the [John Lab GitHub repository](https://github.com/johnlab-research).
-
-The empirical relationships relating earthquake magnitude to surface rupture length we use here were derived by Wells and Coppersmith (1994).
+This work is part of [Saira Baharuddin]([https://github.com/gems-val22](https://github.com/ssaira267))'s PhD project, conducted under the supervision of [Cédric John](https://github.com/cedricmjohn). Saira's PhD at Imperial College London was funded by the [Kings Scholarship Malaysia](https://bmipenajaan.jpa.gov.my/ms/). All code from Cédric John's research group can be found in the [John Lab GitHub repository](https://github.com/johnlab-research).
 
 <br>
 <br>
