@@ -1,10 +1,5 @@
-# Data analysis
-- Document here the project: fms_to_image
-- Description: Project Description
-- Data Source:
-- Type of analysis:
-
-Please document the project the better you can.
+# About this work
+This folder contains all the notebooks and code used to train and test generative adversarial networks to translate Formation MicroScanner (FMS) image logs into synthetic carbonate core images.
 
 ## Citation
 
